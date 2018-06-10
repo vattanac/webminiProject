@@ -1,0 +1,185 @@
+.firstlay {
+    display: flex;
+    font-family: -apple-system, system-ui, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+#img {
+    top: 100px;
+    width: 75px;
+    height: 30px;
+}
+
+#image {
+    margin: 0 50px;
+}
+
+#spaceB {
+    margin: 0 30px;
+}
+
+.firstlay1 {
+    /* background-color: rgb(55, 206, 118); */
+    flex-basis: 50%;
+    padding-left: 20%;
+}
+
+.firstlay1 h4 {
+    color: rgb(177, 177, 177);
+}
+
+.firstlay2 {
+    width: 50%;
+}
+
+.mcard {
+    width: 50%;
+}
+
+.concard {
+    width: 50%;
+    padding-left: 20%;
+}
+
+.secolay {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 100px;
+    padding-right: 500px;
+    background-color: gold;
+}
+
+.th {
+    margin-top: 10px;
+}
+
+.thirdlay1 {
+    padding-left: 100px;
+    display: flex;
+    width: 100%;
+}
+
+.thirdlay1 img {
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
+
+.thirdlay1 p {
+    padding-left: 20px;
+}
+
+.thirdlay1 i {
+    padding-top: 6px;
+    padding-left: 20px;
+}
+
+.thridlay2 {
+    display: flex;
+    padding-top: 30px;
+    padding-left: 100px;
+    width: 100%;
+}
+
+.tl1 {
+    width: 50%;
+}
+
+.relatedproject {
+    margin-top: 10px;
+    display: flex;
+}
+
+.conRe {
+    margin-top: 10px;
+    padding-left: 100px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.conRe>p {
+    color: rgb(155, 155, 155);
+    font-size: 20px;
+}
+
+.br {
+    border-radius: 22px;
+}
+
+.pt {
+    margin-top: 10px;
+    padding-left: 40px;
+    padding-top: 10px;
+}
+
+.cu {
+    display: flex;
+}
+
+.card-postby p {
+    margin-top: 10px;
+    color: rgb(201, 201, 201);
+}
+
+.card-postby img {
+    margin-top: -10px;
+    margin-left: 100px;
+    width: 50px;
+    height: 18px;
+}
+
+.cardD {
+    display: flex;
+}
+
+.c1 {
+    width: 100%;
+}
+
+.bot {
+    display: flex;
+    justify-content: center;
+    flex:1;
+
+}
+
+.bot img {
+    width: 100px;
+    height: 30px;
+}
+
+.sub-bot {
+    display: flex;
+}
+
+.sub-bot p {
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.bot1{
+   
+}
+.logo{
+    
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
